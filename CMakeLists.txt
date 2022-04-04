@@ -58,8 +58,6 @@ target_link_libraries(demo ${PROJECT_NAME} ${Boost_LIBRARIES} Boost::log Boost::
 
 target_link_libraries(${PROJECT_NAME} PUBLIC nlohmann_json::nlohmann_json)
 
-
-
 if(BUILD_TESTS)
   add_executable(tests
           # TODO: enum your files and delete this comment
