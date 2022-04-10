@@ -1,4 +1,4 @@
-// Copyright 2022 Danila Vasilyev
+// Copyright 2022 Vasilyev Danila
 #include <logging.hpp>
 
 void set_logs(size_t val){
