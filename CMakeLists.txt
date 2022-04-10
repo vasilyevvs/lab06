@@ -68,6 +68,7 @@ if(BUILD_TESTS)
   add_test(NAME unit_tests COMMAND tests)
 endif()
 
+
 if(BUILD_COVERAGE)
   set(ENABLE_COVERAGE ON CACHE BOOL "Enable coverage build." FORCE)
   list(APPEND CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/tools/coverage/cmake")
