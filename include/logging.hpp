@@ -1,4 +1,4 @@
-// Copyright 2022 Toschakov Pavel
+// Copyright 2022 Vasilyev Danila
 
 #ifndef INCLUDE_LOGGING_HPP_
 #define INCLUDE_LOGGING_HPP_

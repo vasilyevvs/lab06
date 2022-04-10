@@ -1,4 +1,4 @@
-// Copyright 2022 Toschakov Pavel
+// Copyright 2022 Vasilyev Danila
 #include <hash_calculation.hpp>
 
 std::atomic<bool> in_process = true;
